@@ -1,3 +1,4 @@
+//https://www.codechef.com/BCMN2021/problems/BCMOFG
 #include<iostream>
 #include<vector>
 using namespace std;
